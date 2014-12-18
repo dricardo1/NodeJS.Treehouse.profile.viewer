@@ -1,0 +1,24 @@
+{
+  "name": "NodeJS.Treehouse.profile.viewer",
+  "version": "1.0.0",
+  "description": "Creating first node package example",
+  "main": "app.js",
+  "dependencies": {
+    "backbone": "^1.1.2",
+    "underscore": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dricardo1/NodeJS.Treehouse.profile.viewer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dricardo1/NodeJS.Treehouse.profile.viewer/issues"
+  },
+  "homepage": "https://github.com/dricardo1/NodeJS.Treehouse.profile.viewer"
+}
