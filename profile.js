@@ -17,7 +17,7 @@ function printError(error) {
 }
 
 function get(username) {
-//Connect to the API URL (http://teamtreehouse.com/username.json)
+//Connect to the API URL (http://teamtreehouse.com/username.json) mine is donricardojr
 var request = http.get("http://teamtreehouse.com/" + username + ".json", function(response) {
 	var body = "";
 	//Read the data
@@ -42,7 +42,7 @@ var request = http.get("http://teamtreehouse.com/" + username + ".json", functio
 	});
 	
 	
-	//console.log(response.statusCode); 
+	console.log(response.statusCode); 
 });
 
 //Connection error
